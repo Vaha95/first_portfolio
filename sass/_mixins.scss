@@ -63,7 +63,7 @@
 @mixin button() {
     position: relative;
     display: inline-block;
-    line-height: 1.4;
+    line-height: 1;
     text-align: center;
     background-image: none;
     border-style: solid;
@@ -213,15 +213,4 @@
 /* eg: @include border-radius(3px); */
 @mixin border-radius($radius) {
     border-radius: $radius;
-}
-
-
-// --------------------------------------------------
-// Visibility
-// --------------------------------------------------
-
-/* eg: @include visibility-backface(hidden); */
-@mixin visibility-backface($visibility) {
-    -webkit-backface-visibility: $visibility;
-    backface-visibility: $visibility;
 }
