@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Tasnm || Home Version One</title>
+        <title>Mygift</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
@@ -47,347 +47,9 @@
         <![endif]-->
 
         <!-- header section start -->
-		<header>
-			<div class="header-top">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6 col-sm-4">
-							<div class="left-header clearfix">
-								<ul>
-									<li><p><i class="fa fa-phone" aria-hidden="true"></i>(+880) 1910 000251</p></li>
-									<li class="hd-none"><p><i class="fa fa-clock-o" aria-hidden="true"></i>Mon-fri : 9:00-19:00</p></li>
-								</ul>
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-8">
-							<div class="right-header">
-								<ul>
-									<li><a href="my-account.html"><i class="fa fa-user"></i>My account</a></li>
-									<li><a href="cart.html"><i class="fa fa-shopping-cart"></i>My cart</a></li>
-									<li><a href="wishlist.html"><i class="fa fa-heart"></i>My wishlist</a></li>
-									<li><a href="checkout.html"><i class="fa fa-usd"></i>Creck out</a></li>
-									<li><a href="login.html"><i class="fa fa-lock"></i>Login</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="header-bottom header-bottom-one" id="sticky-menu">
-				<div class="container relative">
-					<div class="row">
-						<div class="col-sm-2 col-md-2 col-xs-4">
-							<div class="logo">
-								<a href="index.html"><img src="img/logo.png" alt="" /></a>
-							</div>
-						</div>
-						<div class="col-sm-10 col-md-10 col-xs-8 static">
-							<div class="all-manu-area">
-							    <div class="mainmenu clearfix hidden-sm hidden-xs">
-                                    <nav>
-                                        <ul>
-                                            <li><a href="index.html">Home</a>
-                                                <ul>
-                                                    <li><a href="index.html">Home Version One</a></li>
-                                                    <li><a href="index-2.html">Home Version Two</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="shop.html">Shop</a>
-                                                <div class="magamenu ">
-                                                    <ul class="again">
-                                                        <li class="single-menu colmd4">
-                                                            <span>men’s wear</span>
-                                                            <a href="#">shirts & top</a>
-                                                            <a href="#">shoes</a>
-                                                            <a href="#">dresses</a>
-                                                            <a href="#">shwmwear</a>
-                                                        </li>
-                                                        <li class="single-menu colmd4">
-                                                            <span>women’s wear</span>
-                                                            <a href="#">shirts & tops</a>
-                                                            <a href="#">shoes</a>
-                                                            <a href="#">dresses</a>
-                                                            <a href="#">shwmwear</a>
-                                                        </li>
-                                                        <li class="single-menu colmd4">
-                                                            <span>accessories</span>
-                                                            <a href="#">sunglasses</a>
-                                                            <a href="#">leather</a>
-                                                            <a href="#">belts</a>
-                                                            <a href="#">rings</a>
-                                                        </li>
-                                                        <li class="single-menu colmd4 colmd5">
-                                                            <a href="#">
-                                                                <img alt="" src="img/maga-banner.png">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </li>
-                                            <li><a href="shop.html">Lookbook</a></li>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="#">Pages</a>
-                                                <ul>
-                                                    <li><a href="about-us.html">About</a></li>
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                    <li><a href="login.html">Login</a></li>
-                                                    <li><a href="my-account.html">My Account</a></li>
-                                                    <li><a href="shop.html">shop</a></li>
-                                                    <li><a href="shop-list.html">Shop List</a></li>
-                                                    <li><a href="shopping-cart.html">Shopping-Cart</a></li>
-                                                    <li><a href="single-product.html">Single Product</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="about-us.html">About</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                                <!-- mobile menu start -->
-                                <div class="mobile-menu-area hidden-lg hidden-md">
-                                    <div class="mobile-menu">
-                                        <nav id="dropdown">
-                                            <ul>
-                                                <li><a href="index.html">Home</a>
-                                                    <ul>
-                                                        <li><a href="index.html">Home Version One</a></li>
-                                                        <li><a href="index-2.html">Home Version Two</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="shop.html">Shop</a>
-                                                    <ul>
-                                                        <li><a href="#">all products</a>
-                                                            <ul>
-                                                                <li>
-                                                                    <span>men’s wear</span>
-                                                                    <a href="#">shirts & top</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">dresses</a>
-                                                                    <a href="#">shwmwear</a>
-                                                                    <a href="#">jeans</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>women’s wear</span>
-                                                                    <a href="#">shirts & tops</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">dresses</a>
-                                                                    <a href="#">shwmwear</a>
-                                                                    <a href="#">jeans</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>accessories</span>
-                                                                    <a href="#">sunglasses</a>
-                                                                    <a href="#">leather</a>
-                                                                    <a href="#">belts</a>
-                                                                    <a href="#">rings</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">persess</a>
-                                                                    <a href="#">bags</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a href="#">New products</a>
-                                                            <ul>
-                                                                <li>
-                                                                    <span>men’s wear</span>
-                                                                    <a href="#">shirts & top</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">jeans</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>women’s wear</span>
-                                                                    <a href="#">shirts & tops</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">dresses</a>
-                                                                    <a href="#">shwmwear</a>
-                                                                    <a href="#">jeans</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>accessories</span>
-                                                                    <a href="#">sunglasses</a>
-                                                                    <a href="#">leather</a>
-                                                                    <a href="#">belts</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">persess</a>
-                                                                    <a href="#">bags</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a href="#">best sell</a>
-                                                            <ul>
-                                                                <li>
-                                                                    <span>men’s wear</span>
-                                                                    <a href="#">shirts & top</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">dresses</a>
-                                                                    <a href="#">shwmwear</a>
-                                                                    <a href="#">jeans</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>accessories</span>
-                                                                    <a href="#">sunglasses</a>
-                                                                    <a href="#">leather</a>
-                                                                    <a href="#">belts</a>
-                                                                    <a href="#">rings</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">persess</a>
-                                                                    <a href="#">bags</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a href="#">features products</a>
-                                                            <ul>
-                                                                <li>
-                                                                    <span>men’s wear</span>
-                                                                    <a href="#">shirts & top</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>women’s wear</span>
-                                                                    <a href="#">shirts & tops</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">dresses</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>accessories</span>
-                                                                    <a href="#">sunglasses</a>
-                                                                    <a href="#">leather</a>
-                                                                    <a href="#">belts</a>
-                                                                    <a href="#">rings</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">persess</a>
-                                                                    <a href="#">bags</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a href="#">popular products</a>
-                                                            <ul>
-                                                                <li>
-                                                                    <span>men’s wear</span>
-                                                                    <a href="#">shirts & top</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">dresses</a>
-                                                                    <a href="#">jeans</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">jacket</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>women’s wear</span>
-                                                                    <a href="#">shirts & tops</a>
-                                                                    <a href="#">shoes</a>
-                                                                    <a href="#">dresses</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>accessories</span>
-                                                                    <a href="#">sunglasses</a>
-                                                                    <a href="#">leather</a>
-                                                                    <a href="#">belts</a>
-                                                                    <a href="#">rings</a>
-                                                                    <a href="#">sweaters</a>
-                                                                    <a href="#">persess</a>
-                                                                    <a href="#">bags</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="shop.html">Lookbook</a></li>
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="#">Pages</a>
-                                                    <ul>
-                                                        <li><a href="about-us.html">About</a></li>
-                                                        <li><a href="blog.html">Blog</a></li>
-                                                        <li><a href="blog-details.html">Blog Details</a></li>
-                                                        <li><a href="checkout.html">Checkout</a></li>
-                                                        <li><a href="contact.html">Contact</a></li>
-                                                        <li><a href="login.html">Login</a></li>
-                                                        <li><a href="my-account.html">My Account</a></li>
-                                                        <li><a href="shop.html">shop</a></li>
-                                                        <li><a href="shop-list.html">Shop List</a></li>
-                                                        <li><a href="shopping-cart.html">Shopping-Cart</a></li>
-                                                        <li><a href="single-product.html">Single Product</a></li>
-                                                        <li><a href="wishlist.html">Wishlist</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="about-us.html">About</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                </div>
-                                <!-- mobile menu end -->
-                                <div class="right-header re-right-header">
-                                    <ul>
-                                        <li class="re-icon tnm"><i class="fa fa-search" aria-hidden="true"></i>
-                                            <form method="get" id="searchform" action="#">
-                                                <input type="text" value="" name="s" id="ws" placeholder="Search product..." />
-                                                <button type="submit"><i class="pe-7s-search"></i></button>
-                                            </form>
-                                        </li>
-                                        <li><a href="cart.html"><i class="fa fa-shopping-cart"></i><span class="color1">2</span></a>
-                                            <ul class="drop-cart">
-                                                <li>
-                                                    <a href="cart.html"><img src="img/cart/1.png" alt="" /></a>
-                                                    <div class="add-cart-text">
-                                                        <p><a href="#">White Shirt</a></p>
-                                                        <p>$50.00</p>
-                                                        <span>Color : Blue</span>
-                                                        <span>Size   : SL</span>
-                                                    </div>
-                                                    <div class="pro-close">
-                                                        <i class="pe-7s-close"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <a href="cart.html"><img src="img/cart/2.png" alt="" /></a>
-                                                    <div class="add-cart-text">
-                                                        <p><a href="#">White Shirt</a></p>
-                                                        <p>$50.00 x 2</p>
-                                                        <span>Color : Blue</span>
-                                                        <span>Size   : SL</span>
-                                                    </div>
-                                                    <div class="pro-close">
-                                                        <i class="pe-7s-close"></i>
-                                                    </div>
-                                                </li>
-                                                <li class="total-amount clearfix">
-                                                    <span class="floatleft">total</span>
-                                                    <span class="floatright"><strong>= $150.00</strong></span>
-                                                </li>
-                                                <li>
-                                                    <div class="goto text-center">
-                                                        <a href="cart.html"><strong>go to cart &nbsp;<i class="pe-7s-angle-right"></i></strong></a>
-                                                    </div>
-                                                </li>
-                                                <li class="checkout-btn text-center">
-                                                    <a href="checkout.html">Check out</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</header>
+        <?php 
+        include_once('header.php');
+        ?>
         <!-- header section end -->
         <!-- slider-section-start -->
         <section class="slider-main-area">
@@ -561,14 +223,7 @@
                                     <div class="product-dsc">
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
-                                            <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            <span class="price-left">$52.00</span>                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -592,13 +247,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -622,13 +271,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -649,13 +292,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -679,13 +316,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -709,13 +340,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -742,13 +367,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                           
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -772,13 +391,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -801,14 +414,7 @@
                                     <div class="product-dsc">
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
-                                            <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            <span class="price-left">$52.00</span>                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -829,13 +435,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -864,13 +464,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -894,13 +488,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -924,13 +512,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -951,13 +533,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -984,13 +560,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1011,13 +581,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                           
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1041,13 +605,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1071,13 +629,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1104,13 +656,13 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
+                                            <!-- <span class="star-right">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            </span> -->
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1134,13 +686,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1172,13 +718,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1199,13 +739,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1229,13 +763,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1259,13 +787,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1291,14 +813,7 @@
                                     <div class="product-dsc">
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
-                                            <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                            <span class="price-left">$52.00</span>                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1319,13 +834,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1352,13 +861,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1382,13 +885,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1412,13 +909,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1439,13 +930,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1477,13 +962,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1507,13 +986,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1537,13 +1010,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1564,13 +1031,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1597,13 +1058,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1627,13 +1082,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1657,13 +1106,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1687,13 +1130,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1717,13 +1154,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1747,13 +1178,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1785,13 +1210,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1815,13 +1234,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1848,13 +1261,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1875,13 +1282,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1905,13 +1306,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1935,13 +1330,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1965,13 +1354,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -1992,13 +1375,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -2025,13 +1402,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -2055,13 +1426,7 @@
                                         <h3><a href="#">Product Title</a></h3>
                                         <div class="star-price">
                                             <span class="price-left">$52.00</span>
-                                            <span class="star-right">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-half-o"></i>
-                                            </span>
+                                             
                                         </div>
                                     </div>
                                     <div class="actions-btn">
@@ -2167,13 +1532,7 @@
 									<h3><a href="#">Product Title</a></h3>
 									<div class="star-price">
 									    <span class="price-left">$52.00</span>
-									    <span class="star-right">
-									        <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-									    </span>
+									      
 									</div>
 								</div>
 								<div class="actions-btn">
@@ -2200,13 +1559,7 @@
 									<h3><a href="#">Product Title</a></h3>
 									<div class="star-price">
 									    <span class="price-left">$52.00</span>
-									    <span class="star-right">
-									        <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-									    </span>
+									      
 									</div>
 								</div>
 								<div class="actions-btn">
@@ -2230,13 +1583,7 @@
 									<h3><a href="#">Product Title</a></h3>
 									<div class="star-price">
 									    <span class="price-left">$52.00</span>
-									    <span class="star-right">
-									        <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-									    </span>
+									      
 									</div>
 								</div>
 								<div class="actions-btn">
@@ -2260,13 +1607,7 @@
 									<h3><a href="#">Product Title</a></h3>
 									<div class="star-price">
 									    <span class="price-left">$52.00</span>
-									    <span class="star-right">
-									        <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-									    </span>
+									      
 									</div>
 								</div>
 								<div class="actions-btn">
@@ -2293,13 +1634,7 @@
 									<h3><a href="#">Product Title</a></h3>
 									<div class="star-price">
 									    <span class="price-left">$52.00</span>
-									    <span class="star-right">
-									        <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-									    </span>
+									      
 									</div>
 								</div>
 								<div class="actions-btn">
@@ -2326,13 +1661,7 @@
 									<h3><a href="#">Product Title</a></h3>
 									<div class="star-price">
 									    <span class="price-left">$52.00</span>
-									    <span class="star-right">
-									        <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-									    </span>
+									      
 									</div>
 								</div>
 								<div class="actions-btn">
@@ -2350,124 +1679,7 @@
 		</section>
 		<!-- new-products section end -->
         <!-- blog section start -->
-		<section class="blog section-padding-top">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12">
-						<div class="section-title">
-							<h3>from the blog</h3>
-							<div class="section-icon">
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
-                            </div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div id="blog" class="owl-carousel product-slider owl-theme re-blog">
-						<div class="col-xs-12">
-							<div class="blog-container-inner">
-                                <div class="post-thumb">
-                                    <a href="#"><img class="attachment-blog-list wp-post-image" alt="blog-2" src="img/blog/111.jpg"></a>
-                                </div>
-                                <div class="visual-inner">
-                                    <h2 class="blog-title">
-                                        <a href="#"> 75 of Ralph Laurenӳ</a>
-                                    </h2>
-                                    <div class="blog-meta">
-                                        <span class="post-category">
-                                            in
-                                            <a rel="category" href="#">Fashion</a>
-                                        </span>
-                                        <span class="published">
-                                            <i class="fa fa-clock-o"></i>
-                                            Oct 31, 2014
-                                        </span>
-                                        <span class="published2">0 comment</span>
-                                    </div>
-                                    <div class="blog-content"> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. ... </div>
-                                </div>
-                            </div>
-						</div>
-						<!-- single blog item end -->
-						<div class="col-xs-12">
-							<div class="blog-container-inner">
-                                <div class="post-thumb">
-                                    <a href="#"><img class="attachment-blog-list wp-post-image" alt="blog-2" src="img/blog/222.jpg"></a>
-                                </div>
-                                <div class="visual-inner">
-                                    <h2 class="blog-title">
-                                        <a href="#"> 75 of Ralph Laurenӳ</a>
-                                    </h2>
-                                    <div class="blog-meta">
-                                        <span class="post-category">
-                                            in
-                                            <a rel="category" href="#">Men</a>
-                                        </span>
-                                        <span class="published">
-                                            <i class="fa fa-clock-o"></i>
-                                            Oct 31, 2014
-                                        </span>
-                                        <span class="published2">1 comment</span>
-                                    </div>
-                                    <div class="blog-content"> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. ... </div>
-                                </div>
-                            </div>
-						</div>
-						<!-- single blog item end -->
-						<div class="col-xs-12">
-							<div class="blog-container-inner">
-                                <div class="post-thumb">
-                                    <a href="#"><img class="attachment-blog-list wp-post-image" alt="blog-2" src="img/blog/333.jpg"></a>
-                                </div>
-                                <div class="visual-inner">
-                                    <h2 class="blog-title">
-                                        <a href="#"> 75 of Ralph Laurenӳ</a>
-                                    </h2>
-                                    <div class="blog-meta">
-                                        <span class="post-category">
-                                            in
-                                            <a rel="category" href="#">Women</a>
-                                        </span>
-                                        <span class="published">
-                                            <i class="fa fa-clock-o"></i>
-                                            Oct 31, 2014
-                                        </span>
-                                        <span class="published2">0 comment</span>
-                                    </div>
-                                    <div class="blog-content"> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. ... </div>
-                                </div>
-                            </div>
-						</div>
-						<!-- single blog item end -->
-						<div class="col-xs-12">
-							<div class="blog-container-inner">
-                                <div class="post-thumb">
-                                    <a href="#"><img class="attachment-blog-list wp-post-image" alt="blog-2" src="img/blog/111.jpg"></a>
-                                </div>
-                                <div class="visual-inner">
-                                    <h2 class="blog-title">
-                                        <a href="#"> 75 of Ralph Laurenӳ</a>
-                                    </h2>
-                                    <div class="blog-meta">
-                                        <span class="post-category">
-                                            in
-                                            <a rel="category" href="#"> Fashion</a>
-                                        </span>
-                                        <span class="published">
-                                            <i class="fa fa-clock-o"></i>
-                                            Oct 31, 2014
-                                        </span>
-                                        <span class="published2">0 comment</span>
-                                    </div>
-                                    <div class="blog-content"> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. ... </div>
-                                </div>
-                            </div>
-						</div>
-						<!-- single blog item end -->
-					</div>
-				</div>
-			</div>
-		</section>
+		
 		<!-- blog section end -->
         <!-- quick view start -->
 		<div class="quick-view modal fade in" id="quick-view">
@@ -2724,220 +1936,13 @@
 		</div>
 		<!-- quick view end -->
         <!-- brand section start -->
-       <section class="section-padding-top">
-           <div class="brand-logo">
-				<div class="barnd-bg">
-					<div class="container">
-						<div class="row text-center">
-							<div id="brand-logo" class="re-owl-carousel21 owl-carousel product-slider owl-theme">
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/1.png" alt="" /></a>
-									</div>
-								</div>
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/2.png" alt="" /></a>
-									</div>
-								</div>
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/3.png" alt="" /></a>
-									</div>
-								</div>
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/4.png" alt="" /></a>
-									</div>
-								</div>
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/5.png" alt="" /></a>
-									</div>
-								</div>
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/6.png" alt="" /></a>
-									</div>
-								</div>
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/1.png" alt="" /></a>
-									</div>
-								</div>
-								<div class="col-xs-12">
-									<div class="single-brand">
-										<a href="#"><img src="img/brand/3.png" alt="" /></a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-       </section>
+       
        <!-- brand section end -->
        <!-- service section start -->
-       <section class="re-section-padding">
-			<div class="service section-padding">
-				<div class="container">
-					<div class="row text-center">
-						<div class="col-xs-12 col-sm-4">
-							<div class="single-service">
-								<i class="pe-7s-plane"></i>
-								<h4>Free Shipping</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-4">
-							<div class="single-service res-single">
-								<i class="pe-7s-headphones"></i>
-								<h4>Customer Support</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-4">
-							<div class="single-service">
-								<i class="pe-7s-refresh"></i>
-								<h4>15 days money back</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-       </section>
+      
        <!-- service section end -->
         <!-- footer section start -->
-		<footer class="re-footer-section">
-			<!-- footer-top area start -->
-			<div class="footer-top section-padding-top">
-				<div class="footer-dsc">
-					<div class="container">
-						<div class="row">
-							<div class="col-xs-12 col-sm-4 col-md-3">
-								<div class="single-text res-text">
-									<div class="footer-title">
-										<h4>Contact us</h4>
-										<hr class="dubble-border"/>
-									</div>
-									<div class="footer-text">
-										<ul>
-											<li>
-												<i class="pe-7s-map-marker"></i>
-												<p>My Company, 45 Puffin Street 1245</p>
-												<p class="rs">Poffinville France.</p>
-											</li>
-											<li>
-												<i class="pe-7s-call"></i>
-												<p>+201 (987) 6641 053</p>
-												<p>+202 (987) 6641 056</p>
-											</li>
-											<li>
-												<i class="pe-7s-mail-open"></i>
-												<p>info@domainname.com</p>
-												<p>company@outlook.com</p>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="col-xs-12 col-sm-4 col-md-3">
-								<div class="single-text res-text">
-									<div class="footer-title">
-										<h4>my account</h4>
-										<hr class="dubble-border"/>
-									</div>
-									<div class="footer-menu">
-										<ul>
-											<li><a href="login.html">My Account</a></li>
-											<li><a href="wishlist.html">My Wishlist</a></li>
-											<li><a href="order-complete">My Orders</a></li>
-											<li><a href="#">My Credit slips</a></li>
-											<li class="nm"><a href="#">My Addresses</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="col-xs-12 col-sm-4 col-md-3 margin-top">
-								<div class="single-text res-text">
-									<div class="footer-title">
-										<h4>customer service</h4>
-										<hr class="dubble-border"/>
-									</div>
-									<div class="footer-menu">
-										<ul>
-											<li><a href="contact.html">Contact Us</a></li>
-											<li><a href="#">Returns</a></li>
-											<li><a href="#">Brands</a></li>
-											<li><a href="#">Site Map</a></li>
-											<li class="nm"><a href="#">Gift Vouchers</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="col-xs-12 hidden-sm col-md-3 margin-top">
-								<div class="single-text res-text">
-									<div class="footer-title">
-										<h4>NEWSLETTER</h4>
-										<hr class="dubble-border"/>
-									</div>
-									<div class="footer-text">
-										<p>Lorem ipsum dolor sit amet, consectetures do adipisicing elit, sed do eiusmod tempores incididunt ut labore</p>
-										<form action="mail.php" method="post">
-											<input type="text" name="email" placeholder="Enter your mail" />
-											<input type="submit" value="submit" />
-										</form>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<hr class="dubble-border"/>
-				</div>
-				<div class="social-media">
-					<div class="container">
-						<div class="row">
-							<div class="col-xs-12 col-sm-6">
-								<div class="paypal social-icon">
-									<ul>
-										<li><a href="#"><i class="fa fa-cc-visa"></i></a></li>
-										<li><a href="#"><i class="fa fa-cc-mastercard"></i></a></li>
-										<li><a href="#"><i class="fa fa-cc-paypal"></i></a></li>
-										<li><a href="#"><i class="fa fa-cc-discover"></i></a></li>
-										<li><a href="#"><i class="fa fa-cc-stripe"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="col-xs-12 col-sm-6">
-								<div class="social-icon">
-									<ul class="floatright">
-										<li class="res-mar"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-										<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-										<li><a href="#"><i class="fa fa-soundcloud"></i></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- footer-top area end -->
-			<!-- footer-bottom area start -->
-			<div class="footer-bottom">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-12 text-center">
-							<p>&copy; 2016 Devitems. All Rights Reserved.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- footer-bottom area end -->
-		</footer>
+		<?php include_once('footer.php'); ?>
         <!-- footer section end -->
         
 		<!-- all js here -->
